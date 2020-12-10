@@ -1,0 +1,12 @@
+ad02-emily
+
+Windows IP Configuration
+
+
+Ethernet adapter Ethernet0:
+
+   Connection-specific DNS Suffix  . : 
+   Link-local IPv6 Address . . . . . : fe80::e197:7f09:311:4014%5
+   IPv4 Address. . . . . . . . . . . : 10.0.5.6
+   Subnet Mask . . . . . . . . . . . : 255.255.255.0
+   Default Gateway . . . . . . . . . : 10.0.5.2
